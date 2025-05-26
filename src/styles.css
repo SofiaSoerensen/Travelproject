@@ -259,6 +259,14 @@ footer a {
     grid-gap: 32px;
   }
 
+  .grid-2-columns img {
+    display: none;
+  }
+
+  .grid-2-columns p {
+    font-size: 22px;
+  }
+
   section {
     padding: 30px;
   }
